@@ -4,23 +4,21 @@
     margin-top: 20px; 
     
 }
+.container1{
+    background-color: rgb(19, 236, 200);
+    height: 270px;
+    width: 400px;
+    border-radius: 25px;
+    margin-right: 300px;
+    margin-top: 20px;
+    padding: 5px;
+}
 .container{
-    background-color: cornsilk;
+    background-color: rgb(106, 224, 26);
     height: 250px;
     width: 400px;
     border-radius: 25px;
     padding: 5px;
     margin-top: 20px;
-    text-align: center;
-    /* margin-top: 20px; */
-}
-.container1{
-    background-color: cornsilk;
-    height: 270px;
-    width: 400px;
-    border-radius: 25px;
-    margin-right: 20px;
-    margin-top: 20px;
-    padding: 5px;
-    text-align: center;
+    margin-left: 300px;
 }
