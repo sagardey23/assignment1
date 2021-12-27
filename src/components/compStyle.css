@@ -1,0 +1,26 @@
+.parent{
+    display:inline-flex;
+    flex-direction: row;
+    margin-top: 20px; 
+    
+}
+.container{
+    background-color: cornsilk;
+    height: 250px;
+    width: 400px;
+    border-radius: 25px;
+    padding: 5px;
+    margin-top: 20px;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+.container1{
+    background-color: cornsilk;
+    height: 270px;
+    width: 400px;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+}
